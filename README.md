@@ -1,7 +1,8 @@
 # shopping-management-system
 Java练手项目
 
- - Codes: src/com Requirement: ./files
+ - Codes: src/com
+ - Requirement: ./files
 
 ## v1:
 
